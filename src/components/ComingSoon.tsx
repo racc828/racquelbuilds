@@ -177,7 +177,6 @@ export default function ComingSoon() {
                 textAlign: "center",
                 color: "rgba(200, 240, 255, 0.35)",
                 fontSize: { xs: 12.5, sm: 13.5 },
-                mb: 1,
               }}
             >
               A new site is being built. Want to collaborate or request a quote?
