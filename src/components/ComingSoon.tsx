@@ -137,7 +137,7 @@ export default function ComingSoon() {
                 mb: 1.8,
               }}
             >
-              Coming Soon
+              Coming Soon!
             </Typography>
 
             {/* Tagline */}
