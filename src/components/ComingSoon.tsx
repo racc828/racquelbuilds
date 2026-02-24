@@ -1,4 +1,3 @@
-import * as React from "react";
 import { Box, Container, Typography, Button } from "@mui/material";
 
 import logo from "../assets/glowlogo.png"; // <-- update path/name
