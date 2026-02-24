@@ -185,7 +185,9 @@ export default function ComingSoon() {
             <Button
               variant="contained"
               size="large"
-              onClick={() => window.location.assign("mailto:rcg828@gmail.com")}
+              onClick={() =>
+                window.location.assign("mailto:racquelbuilds@gmail.com")
+              }
               sx={{
                 borderRadius: 2,
                 px: 3,
