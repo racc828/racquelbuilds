@@ -150,7 +150,7 @@ export default function ComingSoon() {
                 mb: 1.5,
               }}
             >
-              Web Design • AI Automation • Modern Development
+              Web Design • Modern Development
             </Typography>
 
             {/* Dot + line */}
